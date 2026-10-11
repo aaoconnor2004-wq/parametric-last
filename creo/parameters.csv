@@ -1,0 +1,18 @@
+name,type,start_value,role
+FOOT_LENGTH,Real Number,270.0,input (family table)
+WIDTH_GRADE,Integer,2,input (family table)
+TOE_ALLOWANCE,Real Number,0.0,driven by relations
+GIRTH_EASE,Real Number,0.0,driven by relations
+BOTTOM_WIDTH_FACTOR,Real Number,0.0,driven by relations
+HEEL_HEIGHT,Real Number,0.0,driven by relations
+TOE_SPRING,Real Number,0.0,driven by relations
+GIRTH_STEP,Real Number,0.0,driven by relations
+WIDTH_STEP,Real Number,0.0,driven by relations
+LAST_LENGTH,Real Number,0.0,driven by relations
+BALL_LENGTH,Real Number,0.0,driven by relations
+BALL_GIRTH,Real Number,0.0,driven by relations
+BALL_WIDTH,Real Number,0.0,driven by relations
+BOTTOM_BALL_WIDTH,Real Number,0.0,driven by relations
+HEEL_WIDTH,Real Number,0.0,driven by relations
+BOTTOM_HEEL_WIDTH,Real Number,0.0,driven by relations
+HEEL_ANKLE_GIRTH,Real Number,0.0,driven by relations

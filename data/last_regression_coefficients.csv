@@ -1,0 +1,11 @@
+sex,dimension,slope,intercept,r_squared
+M,ball_width,0.2352,38.09,0.347
+M,ball_girth,0.5895,92.15,0.357
+M,heel_breadth,0.2019,17.74,0.234
+M,heel_ankle_girth,1.0067,70.49,0.63
+M,ball_length,0.7393,0.46,0.856
+F,ball_width,0.2134,40.16,0.308
+F,ball_girth,0.5732,86.94,0.367
+F,heel_breadth,0.2137,14.53,0.264
+F,heel_ankle_girth,0.9883,66.9,0.645
+F,ball_length,0.7286,2.61,0.883
