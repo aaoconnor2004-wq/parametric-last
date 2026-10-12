@@ -4,20 +4,20 @@
 /*   FOOT_LENGTH  real, mm
 /*   WIDTH_GRADE  integer, 1 = B narrow, 2 = D medium, 3 = 2E wide
 
-/* allowance: extra length past the longest toe (tune in notebook Section 4)
-TOE_ALLOWANCE = 12.0
+/* allowance: extra length past the longest toe (measured on 5 shoes, notebook Section 4)
+TOE_ALLOWANCE = 18.0
 
-/* allowance: last ball girth minus foot ball girth (tune in notebook Section 4)
+/* allowance: last ball girth minus foot ball girth (not measured; 0 = snug fit)
 GIRTH_EASE = 0.0
 
-/* allowance: last bottom width / foot width (tune in notebook Section 4)
-BOTTOM_WIDTH_FACTOR = 0.9
+/* allowance: last bottom width / foot width (measured on 5 shoes, notebook Section 4)
+BOTTOM_WIDTH_FACTOR = 0.97
 
-/* allowance: heel-to-toe drop (tune in notebook Section 4)
-HEEL_HEIGHT = 10.0
+/* allowance: heel-to-toe drop (measured on 5 shoes, notebook Section 4)
+HEEL_HEIGHT = 8.0
 
-/* allowance: toe lift off the ground plane (tune in notebook Section 4)
-TOE_SPRING = 15.0
+/* allowance: toe lift off the ground plane (measured on 5 shoes, notebook Section 4)
+TOE_SPRING = 42.1
 
 /* ball girth change per width grade (girth residual tertiles)
 GIRTH_STEP = 9.8
